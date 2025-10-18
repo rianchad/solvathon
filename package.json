@@ -9,6 +9,7 @@
     "preview": "vite preview --host 0.0.0.0 --strictPort",
     "start": "vite",
     "allowedHosts": "all",
+    "preview.allowedHosts": "all",
     "serve:dist": "vite preview --port 8000 --strictPort"
   },
   "dependencies": {
